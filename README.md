@@ -1,4 +1,4 @@
-# Breast-Cancer-Prediction
+# Breast-Cancer-Prediction           ![Views](https://komarev.com/ghpvc/?username=iamvarunm&color=orange&label=views)
 Using the Breast Cancer Database, we will create a classifier that can help diagnose patients and predict the likelihood of a breast cancer. We will use various Machine Learning Algorithms to analyse and predict. We have to use 30 different columns to understand the data.
     
 # Tools Used 
